@@ -1,7 +1,6 @@
 #include "alg.h"
 
 int main() {
-    int result = gcd(10, 15);
-    std::cout<<result;
+    int result = gcd(100, 150);
     return 0;
 }
